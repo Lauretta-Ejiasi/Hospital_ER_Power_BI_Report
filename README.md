@@ -9,6 +9,10 @@ This is a hosipital data collected in CSV format and cleaned with Power Query. A
 - Patient by departmental referral and gender.
 
 
+
+-------
+
+
 - **  Discussion**
 
   Insight from this report can be used to determine who their most client are in terms of gender and race.

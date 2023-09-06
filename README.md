@@ -8,7 +8,9 @@ This is a hosipital data collected in CSV format and cleaned with Power Query. A
 - Year and month of visitation,
 - Patient by departmental referral and gender.
 
-**  Discussion**
+
+- **  Discussion**
+
   Insight from this report can be used to determine who their most client are in terms of gender and race.
   What period of the day they are most busy or expect to be busy with the patients and to determine if they require additional hands in attending to patient needs.
   The year and month they had more patient visitation, this insight would really help the organisation in planning employees readiness and equipment rediness, it would also help manage the expecatation of management and prepare for any incontigencies.

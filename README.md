@@ -1,12 +1,12 @@
 # Hospital ER Power-BI-Project
 This is a hosipital data collected in CSV format and cleaned with Power Query. After data was cleaned, it was fit to load into PowerBI for visualization and insight generation. The below insight were extracted;
-- Total patient-
+- Total patient,
 - Distribution of patient by gender,
 - Sat score,
 - Race,
 - Visit period (AM or PM),
 - Year and month of visitation,
-- Patient by departmental referral and gender.
+- And, Patient by departmental referral and gender.
 
 
 
